@@ -1,4 +1,4 @@
-Multi-Disease Medical Deepfake Detection System 😱😱😱😱👨‍⚕️
+**Multi-Disease Medical Deepfake Detection System** 😱😱😱😱👨‍⚕️
 
 An advanced, multi-tiered deep learning pipeline engineered to detect Generative AI (GAN) manipulation and synthetic anomalies in both Chest X-Rays (Pneumonia/Lung pathologies) and Brain MRI scans (Tumor imaging). This system provides real-time forensic verification to ensure the mathematical authenticity of clinical imaging.
 
@@ -21,7 +21,6 @@ Real-time Web Interface: An enterprise-grade Gradio dashboard providing clinical
 🏗️ System Architecture:
 
 <img width="1347" height="347" alt="image" src="https://github.com/user-attachments/assets/76097f42-2b71-4ab9-93a0-6255ca0c3f0b" />
-
 
 
 
@@ -51,6 +50,9 @@ Real-time Web Interface: An enterprise-grade Gradio dashboard providing clinical
           |    └── deepfake_detector_efficientnet.pth # EfficientNet-B0 weights
           ├── requirements.txt            # Python dependencies (torch, torchvision, gradio)
           ├── .gitignore                  # Git ignore rules
+
+
+
 
 🔬 Technical Details:
 
@@ -113,6 +115,9 @@ Research Objectives:
 
       Develop multi-tier, dynamically routed model architectures.
 
+
+
+
 🔒 Medical Ethics & Privacy:
 
 Dataset: Uses publicly available de-identified medical scans and internally generated synthetic data.
@@ -122,6 +127,8 @@ Compliance: Follows standard data anonymization guidelines.
 Purpose: Academic research and educational demonstration.
 
 Disclaimer: Not approved for clinical diagnostic use.
+
+
 
 🛠️ Technologies Used:
 
@@ -135,7 +142,9 @@ Development: Google Colab, Git/GitHub, CUDA/cuDNN GPU Acceleration
 
 
 🛑 Copyright & Licensing
+
 © 2026 Kushagra Singh. All Rights Reserved.
+
 This repository is provided strictly for academic portfolio demonstration. The proprietary code, model architectures, triage logic, and concepts herein may not be copied, reproduced, distributed, or utilized for commercial purposes without explicit written permission from the author. Patent Pending / IP Protected.
 
 ⚠️ Academic Use Only | Not for Clinical Diagnosis | Research Demonstration
