@@ -142,6 +142,10 @@ Web Framework: Gradio
 Development: Google Colab, Git/GitHub, CUDA/cuDNN GPU Acceleration
 
 
+<img width="1366" height="768" alt="Screenshot (1062)" src="https://github.com/user-attachments/assets/91080b8e-cff0-4212-85b7-6468ba7dd4d6" />
+
+
+
 🛑 Copyright & Licensing
 
 © 2026 Kushagra Singh. All Rights Reserved.
